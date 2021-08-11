@@ -1,1 +1,1 @@
-# Mech
+# Watt Linkage Simulator
